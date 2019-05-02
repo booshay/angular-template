@@ -23,6 +23,7 @@
     "core-js": "^2.6.5",
     "latest": "^0.2.0",
     "rxjs": "~6.3.3",
+    "tar": "^4.4.8",
     "webpack-dev-server": "^3.3.1",
     "zone.js": "^0.8.29"
   },
